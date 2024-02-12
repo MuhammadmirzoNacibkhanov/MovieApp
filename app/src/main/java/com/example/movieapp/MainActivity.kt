@@ -31,6 +31,10 @@ class MainActivity : AppCompatActivity() {
             ),
             Mymodel(R.drawable.movie_venomfilm, "King's man", id = 2),
             Mymodel(R.drawable.movie_venomfilm, "Doctor Strange", id = 3),
+            Mymodel(R.drawable.movie_venomfilm, "Captain America: Civil War", id = 4),
+            Mymodel(R.drawable.movie_venomfilm, "Iron man: Progress", id = 5),
+            Mymodel(R.drawable.movie_venomfilm, "Avengers: Infinity War", id = 6),
+            Mymodel(R.drawable.movie_venomfilm, "Avengers: End Game", id = 7),
 
             )
 
